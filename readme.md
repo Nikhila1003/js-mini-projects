@@ -1,1 +1,1 @@
-This provides a readme about all the mini projects done with Java Script.
+This repo provides, a practice of the mini projects done with Java Script.
