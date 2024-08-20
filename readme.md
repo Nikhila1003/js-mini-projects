@@ -1,0 +1,1 @@
+This provides a readme about all the mini projects done with Java Script.
